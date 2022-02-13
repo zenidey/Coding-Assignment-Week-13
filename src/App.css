@@ -1,0 +1,30 @@
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 5px;
+  padding: 5px;
+  /* overflow: hidden; */
+}
+
+a {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.nav {
+  background-color: black;
+}
+
+.form {
+  padding: 25px;
+  width: 75%;
+  border: solid black;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+
